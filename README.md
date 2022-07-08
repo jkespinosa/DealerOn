@@ -1,6 +1,8 @@
 URL : https://localhost:7183/api/ProductTaxes
 
 Send information 1:
+
+
 [
     { 
         "amount":1,     
