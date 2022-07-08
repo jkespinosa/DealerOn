@@ -1,3 +1,6 @@
+RUN visual Studio  as administrator
+
+
 URL : https://localhost:7183/api/ProductTaxes
 
 Send information 1:
@@ -31,6 +34,8 @@ Send information 1:
      "price" : "11.25"   
     } 
 ]
+
+To this example, I used POSTMAN
 
 ![2022-07-08_12h17_56](https://user-images.githubusercontent.com/17265317/178048503-4ca6a61d-2d0f-4116-9d23-989b81603575.png)
 
