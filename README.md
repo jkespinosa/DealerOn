@@ -35,9 +35,11 @@ Send information 1:
 ![2022-07-08_12h17_56](https://user-images.githubusercontent.com/17265317/178048503-4ca6a61d-2d0f-4116-9d23-989b81603575.png)
 
 Returned Data
+
 ![image](https://user-images.githubusercontent.com/17265317/178048628-8c323f7b-bee5-4339-bbe6-a44794d0798a.png)
 
 Send information 2:
+
 [
     { 
         "amount":1,     
@@ -62,9 +64,7 @@ Send information 2:
     
 ]
 
-
 Send information 3:
-
 
  {
         "amount": 1,
