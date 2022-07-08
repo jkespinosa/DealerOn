@@ -29,3 +29,6 @@ Send information:
      "price" : "11.25"   
     } 
 ]
+
+![2022-07-08_12h17_56](https://user-images.githubusercontent.com/17265317/178048503-4ca6a61d-2d0f-4116-9d23-989b81603575.png)
+
